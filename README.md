@@ -49,15 +49,13 @@ todo-project/
 
 3. Install dependencies:
 
-   ```pip install -r requirements.txt
+   pip install -r requirements.txt
 
-   ```
 
 4. Start the FastAPI server:
 
-   ```uvicorn main:app --reload
+   uvicorn main:app --reload
 
-   ```
 
 5. The backend will run at: http://localhost:8000
 
@@ -65,21 +63,21 @@ todo-project/
 
 1. Navigate to frontend folder:
 
-   ```cd frontend
+    cd frontend
 
-   ```
+
 
 2. Install dependencies:
 
-   ```npm install
+   npm install
 
-   ```
+   
 
 3. Run development server:
 
-   ```npm run dev
+   npm run dev
 
-   ```
+   
 
 4. The frontend will run at: http://localhost:5173
 
